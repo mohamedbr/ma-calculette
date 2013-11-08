@@ -6,7 +6,7 @@ public class Calculator {
 	   private int operation=0;
 	   
        public Calculator(){
-    	   
+    	   this.operation=0;
        }
        
        public int getResultat(){
